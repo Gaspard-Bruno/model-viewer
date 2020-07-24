@@ -1,6 +1,6 @@
 {
   "name": "model-viewer-packages",
-  "private": true,
+  "version": "1.0.0",
   "description": "The repository for all <model-viewer> packages",
   "scripts": {
     "test": "./node_modules/.bin/lerna run test --stream",
