@@ -1,0 +1,11 @@
+commit d4939b066b72913c1681bd2ca4760662b8404bc4
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu Jul 23 17:31:41 2020 -0700
+
+    Update CI browser versions (#1405)
+    
+    * deploy WaterBottle
+    
+    * updated browser test versions
+    
+    * remove Safari 12 due to flakiness
